@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Jose-Antonio_LoverBus/static/css/main.61ad6f6a.chunk.css",
+    "main.js": "/Jose-Antonio_LoverBus/static/js/main.17c5fa80.chunk.js",
+    "main.js.map": "/Jose-Antonio_LoverBus/static/js/main.17c5fa80.chunk.js.map",
+    "runtime-main.js": "/Jose-Antonio_LoverBus/static/js/runtime-main.4be6edcb.js",
+    "runtime-main.js.map": "/Jose-Antonio_LoverBus/static/js/runtime-main.4be6edcb.js.map",
+    "static/css/2.b544de60.chunk.css": "/Jose-Antonio_LoverBus/static/css/2.b544de60.chunk.css",
+    "static/js/2.2ba6aa51.chunk.js": "/Jose-Antonio_LoverBus/static/js/2.2ba6aa51.chunk.js",
+    "static/js/2.2ba6aa51.chunk.js.map": "/Jose-Antonio_LoverBus/static/js/2.2ba6aa51.chunk.js.map",
+    "index.html": "/Jose-Antonio_LoverBus/index.html",
+    "static/css/2.b544de60.chunk.css.map": "/Jose-Antonio_LoverBus/static/css/2.b544de60.chunk.css.map",
+    "static/css/main.61ad6f6a.chunk.css.map": "/Jose-Antonio_LoverBus/static/css/main.61ad6f6a.chunk.css.map",
+    "static/js/2.2ba6aa51.chunk.js.LICENSE.txt": "/Jose-Antonio_LoverBus/static/js/2.2ba6aa51.chunk.js.LICENSE.txt",
+    "static/media/bucket_list.e3f28f8a.jpg": "/Jose-Antonio_LoverBus/static/media/bucket_list.e3f28f8a.jpg",
+    "static/media/place-of-destination.803d6944.png": "/Jose-Antonio_LoverBus/static/media/place-of-destination.803d6944.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4be6edcb.js",
+    "static/css/2.b544de60.chunk.css",
+    "static/js/2.2ba6aa51.chunk.js",
+    "static/css/main.61ad6f6a.chunk.css",
+    "static/js/main.17c5fa80.chunk.js"
+  ]
+}
